@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new--years--gift for Protestants with the true cause of the diversity of religions. Being a new discovery of the essence and foundation from whence all religions is derived, for the salvation of all mankind through Christ, which from the beginning of the world, was but one and the same that is now, and will be to the end thereof, whereby to lead all into truth and unity of religion without controversie. By a person of quality. Licens'd, Decemb. 20th. 1691</title>
+            <author>Person of quality.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53013</idno>
+            <idno type="STC">Wing N802A</idno>
+            <idno type="STC">ESTC R217828</idno>
+            <idno type="EEBO-CITATION">99829471</idno>
+            <idno type="PROQUEST">99829471</idno>
+            <idno type="VID">33911</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53013)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33911)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1994:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new--years--gift for Protestants with the true cause of the diversity of religions. Being a new discovery of the essence and foundation from whence all religions is derived, for the salvation of all mankind through Christ, which from the beginning of the world, was but one and the same that is now, and will be to the end thereof, whereby to lead all into truth and unity of religion without controversie. By a person of quality. Licens'd, Decemb. 20th. 1691</title>
+                  <author>Person of quality.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Randal Taylor near Stationers-Hall,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Print blurred on final page; partly illegible.</note>
+                  <note>Reproduction of the original in the Sion College Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Freedom of religion --  Early works to 1800.</term>
+               <term>Protestants --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33911:1" rendition="simple:additions"/>
+            <p>A NEW-YEARS-GIFT FOR PROTESTANTS, With the true Cauſe of the Diverſity of RELIGIONS.</p>
+            <p>Being a New Diſcovery of the Eſſence and Foundation from whence all Religions is derived, for the Salvation of all Mankind through Chriſt, which from the beginning of the World, was but one and the ſame that is now, and will be to the end thereof, whereby to lead all into Truth and Unity of Religion without Controverſie.</p>
+            <p>By a Perſon of Quality.</p>
+            <p>LICENS'D, <hi>Decemb. 20th.</hi> 1691.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Randal Taylor</hi> near Stationers-Hall, 1691.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:33911:2"/>
+            <pb n="1" facs="tcp:33911:2"/>
+            <head>A NEW-YEARS-GIFT FOR PROTESTANTS; With the true Cauſe of the Diverſity of RELIGIONS.</head>
+            <p>IT muſt be undeniably granted, That there never hath been from the Creation but one Religion for the Salvation of all Mankind through Chriſt; and by which Religion, and no o<g ref="char:EOLhyphen"/>ther, ſome of every Nation have been, and will be ſaved to the end of the World; for without Chriſt and Faith in Him, no Man can poſſibly be ſaved.</p>
+            <p>The Groundwork, Foundation, and Corner-ſtone of which Religion, muſt be derived from the Second Perſon of the Trini<g ref="char:EOLhyphen"/>ty, the Lamb's Spirit of Chriſt, which was deſtroyed by <hi>Adam</hi>
+               <pb n="2" facs="tcp:33911:3"/>in himſelf, from the Foundation of the World; whoſe Soul was the perfect Image and Likeneſs of God, having in him the per<g ref="char:EOLhyphen"/>fection of the Trinity, the Father, Son, and Holy Spirit, in one Spirit.</p>
+            <p>But <hi>Adam</hi> made his Spirit an imperfect Spirit of God, by eat<g ref="char:EOLhyphen"/>ing the Forbidden Fruit, which killed in himſelf the ſaid Lamb's Spirit of Chriſt in Love to God; by which <hi>Love only</hi> Man is ſav'd, and without which <hi>Spirit of Chriſt in Love to God,</hi> no Man can poſſibly be ſaved.</p>
+            <p>For God is ſaid to be Love, and it is the Word that was with God, and the Word that was God, and the Word that was made Fleſh in Chriſt, which was begotten from all Eternity in God, the Fathers Spirit of Life; and from which Spirit of Life and Love, doth proceed the Holy Spirit in Wiſdom, a Trinity of Spirits; and but one Spirit inſeparable from Gods Spirit, which was breathed into the Noſtrils of Man, and was perfect in <hi>Adam</hi> till he deſiled it in himſelf, and in all his Poſterity; by which means they were all after him Born in Sin: For the Firſt Born Spirit of Life, being without Chriſts Spirit of Love, doth vary from the Spirit of God, and is naturally of it ſelf (being without Love) a ſinfully inclined Spirit. Therefore, as Chriſt ſaid, <hi>Ye muſt be born again,</hi> or ye cannot enter into the Kingdom of Heaven.</p>
+            <p>Which makes it plain and moſt apparent, That the Lambs Spirit of Chriſt in Love to God (which <hi>Adam</hi> killed and deſtroy<g ref="char:EOLhyphen"/>ed in himſelf,) muſt be begotten, <hi>and born</hi> again in all Mankind, whereby to complete the Defects of the Spirit of Life, that it may become the true Image and Likeneſs of Gods Spirit, as at firſt in <hi>Adam.</hi>
+            </p>
+            <p>Which Spirit of Life, is an imperfect Spirit of God, without Chriſts Spirit of Love; for <hi>without Love</hi> in the Life, there can no
+<pb n="3" facs="tcp:33911:3"/>Wiſdom proceed from Man: Therefore, there can be no Salva<g ref="char:EOLhyphen"/>tion for Man, without His Spirit be made perfect, as God the Fa<g ref="char:EOLhyphen"/>thers Spirit is perfect, a Trinity in Unity, with Life, Love and Wiſdom. For the Firſt Born-wordly Spirit of Life in Man, hath a natural love to the World, and cannot enjoy the Kingdom of God without it be born again with Chriſts Heavenly Spirit, in love to God more than to the World.</p>
+            <p>So that all other things, in the Duties, Rites and Ceremonies of ſeveral Religions, are but Circumſtances, Forms and Pertainan<g ref="char:EOLhyphen"/>ces, to the gaining, preſerving, nouriſhing, and increaſing this Spi<g ref="char:EOLhyphen"/>rit of Chriſt in love to God, whilſt Man is in the World, (He be<g ref="char:EOLhyphen"/>ing born into the World only with a worldly Spirit,) whereby the Soul of Man before he goes out of the World, may become a Heavenly Spirit, refined, fitted, and prepared for the Heavenly Kingdom.</p>
+            <p>Therefore it is a falſe Conception, <q>That Religion is only for the Service of God, and that Man by it can do God any Service, but through his Obedience to Gods Commands, for his own proper advantage; being it is only for the increaſing Chriſts Spirit in him for the good of himſelf (which <hi>Adam</hi> deſtroyed) whereby he may be capable of living to Gods Honour and Glo<g ref="char:EOLhyphen"/>ry; for without that Spirit of Chriſt, Man is only a <hi>ſounding Braſs,</hi> or a <hi>tinkling Cymbal.</hi>
+               </q>
+            </p>
+            <p>On which Spirit of Chriſt in love to God, and love to Man, hangs all the Law and the Prophets, <hi>Mat.</hi> 22.40. And in which is the Fulfilling of the <hi>Law, Rom.</hi> 13.10. And the Gentiles which have not the <hi>Law,</hi> are a <hi>Law</hi> unto themſelves, which ſhews the <hi>Works</hi> of the <hi>Law</hi> written in their Hearts, <hi>Rom.</hi> 2.14. For all Nations and different Religions throughout the Univerſe, do all agree from their Hearts in this one main Principal Point of Religion, <hi>That none can be ſaved without love to God,</hi> (tho they
+<pb n="4" facs="tcp:33911:4"/>know not the ſpiritual Reaſon for it,) and they do all naturally know in their Hearts what is Good and what is Evil, their Con<g ref="char:EOLhyphen"/>ſciences bearing them witneſs, and their Thoughts accuſing or excuſing one another, <hi>verſ.</hi> 15.</p>
+            <p>So that to the Chriſtians, it is demonſtrated by the Scripture the true Principle of Religion, how to <hi>worſhip God in Spirit and in Truth,</hi> (which can <hi>only be by the true Spirit of Chriſt in love to God;</hi>) And unto the Gentiles, it is demonſtrated from the Law written in their Hearts; they naturally worſhipping God, with the Spirit of Chriſt in love to God, having a Belief in God, (wherein con<g ref="char:EOLhyphen"/>ſiſts the Faith in Chriſt,) by whom they are ſaved through Chriſt. <hi>For whom God will have mercy, on whom he will have mercy.</hi> And doubtleſs, thoſe Greek and Roman Heathens, <hi>Socrates, Plato,</hi> and <hi>Seneca,</hi> &amp;c. who lived up to the ſtrictneſs of Vertue, and did ſerve God (in the only true Religion) with the true Spirit of Chriſt, in Spirit, and in Truth, in Love to God, tho they could not then define what God was, as hath been ſince by Scripture revealed.</p>
+            <p>Therefore Chriſtians (tho' they be in the Right and True way, with a ſufficiency for their Salvation through Scripture) do extreamly err in the underſtanding for what Religion was ordained, and alſo in the Principle and true Eſſence from whence it is grounded, whereon hangs all the Law and the Prophets, and in which is the fulfilling of the Law in the love to God and Man, (and in the obſerving of which, Mankind are moſt inconſiderately defective,) for without true Obedience in the keeping God's Commands, and in ſtrictneſs thereof to the Love of Man, there can be no Love to God, nor no Salvation, nor the Spirit of God in that Man, or in his Religi<g ref="char:EOLhyphen"/>on, where there is a breach of Love againſt either God or Man, or their Laws and Commandments; <hi>For he that loves God will keep his Commandments, and he that loves not God will not keep his Commandments,</hi> John 4.23, 24. The ſame may be
+<pb n="5" facs="tcp:33911:4"/>ſaid of Man; he that loves Man will keep his Command<g ref="char:EOLhyphen"/>ments, actively or paſſively; <hi>and he is a lyar that ſaith he loves God, and doth not love his Brother, for he who loveth God, doth love his Brother alſo,</hi> 1 John 4.20.21. For Man is the repre<g ref="char:EOLhyphen"/>ſentative of God's Spirit, and God in Trinity doth dwell in Man, who never was, nor can <hi>Perſonally</hi> be ſeen Tranſacting in any thing, but by, and through Chriſt, Angels, or Men; therefore it is ſaid in the 1 <hi>Theſ.</hi> 4.8. <hi>Whoſoever deſpiſeth Man, deſpiſeth not Man but God.</hi>
+            </p>
+            <p>For all Mankind are Members of Chriſt, and are created from one and the ſelf ſame Spirit of God; he deviding his <hi>Spirit to every Man ſeverally as it pleaſeth him,</hi> 1 Cor. 12.4, 11. Or it may be ſaid God transforming his own Spirit into the ſeveral ſhapes of Mankind like himſelf, ſo that had all Men one Trinitarian Spirit in Perfection (as <hi>Adam</hi> at firſt had,) they would all unanimouſly agree together with one Spirit, in Life, Love, and Wiſdom, as one Man, after the likeneſs of God, and live according to his Will and Pleaſure.</p>
+            <p>But by <hi>Adam</hi>'s deſtroying himſelf and Poſterity, Chriſt's Lamb's Spirit in love to God; it hath brought variance and ſtrife into the World, for want of the true Light of Chriſt's Spirit of Love (which is the light of the World) to regulate them; For without which, their Spirits will be no more fit for Heaven than the Spirit of Devils, who have only the Spi<g ref="char:EOLhyphen"/>rit of Life, without Love or Wiſdom.</p>
+            <p>Therefore God of his mercy and compaſſion to Mankind, did from the beginning ſpread forth his Commandments into all the hearts of Men; and in a more particular manner, by expreſs word to his Elect, that they ſhould be unanimous in keeping thoſe Commandments, whereby to increaſe and in<g ref="char:EOLhyphen"/>flame their Spirits in Love of God and one another; to be<g ref="char:EOLhyphen"/>come
+<pb n="6" facs="tcp:33911:5"/>one, as God and Chriſt are one; and to live a peace<g ref="char:EOLhyphen"/>able, quiet, heavenly life on Earth, as if they were even in Heaven: It being the main end for which Religion was pro<g ref="char:EOLhyphen"/>pagated, to reſtore Man to the firſt Purity of his Father <hi>A<g ref="char:EOLhyphen"/>dam.</hi>
+            </p>
+            <p>So that all Religion thro' the Commands of God, and the Preſident and Precept of Chriſt by Scripture (wherein lies Man's Service to God) are but to admoniſh, put, and keep us in mind of our ſtrict Obedience and Duty toward God and to<g ref="char:EOLhyphen"/>ward Man; that Man may recover the loſt Spirit of Chriſt, to become the perfect Image and Likeneſs of God, as at his firſt Creation, thereby to redeem him from the Captivity of Satan, who was the Original cauſe of Loves Deſtruction in Man, to Entail Man unto himſelf, to become like himſelf, who hath no Love at all in his Spirit, to God or Man.</p>
+            <p>Therefore the true Viſible Church, is only to be found in Legal Places of Worſhip, where God hath <hi>Recorded his Name,</hi> by Magiſtrates, with the Supreme Power in Love and Unity; for without the Conſent of the Magiſtrates, and Supreme Power, in Love and Unity; For without the conſent of Ma<g ref="char:EOLhyphen"/>giſtrates and Sumpreme Powers, God <hi>doth not record his Name</hi> any where; for whereſoever he (who is called Love) doth Re<g ref="char:EOLhyphen"/>cord his Name, it muſt be done with Love, and not in op<g ref="char:EOLhyphen"/>poſition to Love: It being ſaid by God, <hi>Exo.</hi> 20.24. <hi>In all places where I Record my Name, I will come unto them, and I will bleſs them.</hi> Therefore God's Bleſſing cannot be expected in that Aſſembly or Congregation, (where he doth not re<g ref="char:EOLhyphen"/>cord his Name) that deſtroys his Spirit of Love, by being in oppoſition to the legal Power of Magiſtrates, as all Religions do act againſt the Legal Power that are in <hi>England,</hi> excepting the Church of <hi>England,</hi> where only decent Order, with ne<g ref="char:EOLhyphen"/>ceſſary Ornaments and Cetemonies are uſed without any Su<g ref="char:EOLhyphen"/>perſtition,
+<pb n="7" facs="tcp:33911:5"/>and that hath kept it ſelf in Purity (throughout all Sufferings from the Apoſtles time) the neareſt the Scripture Rule and Method, and the cleareſt from any breach of God's and Man's Laws, whoſe Doctrine tends chiefly for the in<g ref="char:EOLhyphen"/>citement to the love of God and Man, thro' obedience to their Commands, with Praying, Preaching and Teaching in a known Tongue; for the Edification of all Men, good and bad; and for living with each other in Unity, Peace and Quietneſs; fol<g ref="char:EOLhyphen"/>lowing Peace with all Men, and Holineſs, <hi>without which no man ſhall ſee the Lord.</hi>
+            </p>
+            <p>Yet for all which undeniable Truth, there are thoſe who extreamly vary therefrom, under pretence of being Chriſt's Vicar or Vicegerent on Earth, do (contrary to his Preſident and Precept) uſurp to themſelves the Temporal and Spiritual Power over all Chriſtian Emperors, Kings and Princes, and Biſhops, excommunicating and dethroning them; with abſolv<g ref="char:EOLhyphen"/>ing Subjects from their Oath of Allegiance, and Curſing all that believe not in their Erroneous Principles of Faith; where<g ref="char:EOLhyphen"/>as <hi>from the beginning it was not ſo</hi> throughout all the Patriarchs unto <hi>Moſes,</hi> who was the Supream Head over God's High-Prieſt, and to whom the decent Order of Religion was firſt Ordained by God himſelf, for the unanimous Government of his Select People, till Chriſt; who aſſumed no ſuch power unto himſelf, nor gave any Preſident or Precept for it to any one elſe throughout all the Scripture; nor alſo St. <hi>Peter,</hi> (from whence they derive their main Authority,) who deſires for the <hi>Lords ſake</hi> to <hi>ſubmit your ſelves to the King</hi> the Supreme Head, and to fear God, and honour the King, 1 <hi>Pet.</hi> 2.13, 17. whoſe Doctrine they have converted to the making Kings and Princes fear and honour them, and are in direct oppoſition to (the Fundamental Principle of Religion,) Chriſts Spirit, in love to God and Man; and the de<g ref="char:EOLhyphen"/>ſigned intention thereof to follow Peace with all Men, by gaining, preſerving, nouriſhing, and increaſing the ſaid Love toward God,
+<pb n="8" facs="tcp:33911:6"/>and toward Man, whereby Chriſt's Spirit may reign upon Earth, in Love and Unity, Peace and Quietneſs; that Gods <hi>Will</hi> may be done <hi>in Earth</hi> as it <hi>is in Heaven.</hi>
+            </p>
+            <p>And there are others who run whoreing after their own inven<g ref="char:EOLhyphen"/>tions, to find out the Purity of Religion, one for <hi>Paul,</hi> another for <hi>Apolos;</hi> and that makes all places alike for the Service of God; and that pretends to obey God rather than Man; although the Duty towards God doth chiefly conſiſt in the Duty towards Man: <hi>Theſe he they who ſeparate themſelves, Senſual, having not the Spirit,</hi> Jude 19. <hi>who have a Form of Godlineſs, but denying the Power there<g ref="char:EOLhyphen"/>of, ever learning, but never able to come to the knowledge of the Truth,</hi> 2 <hi>Tim.</hi> 3.5, 7. who are all gone aſtray from Chriſts Spirit of Love, the Light that enlightneth the World, which muſt lead all into Unity of Religion before the end thereof.</p>
+            <p>For the Spirit of Chriſt's Love, is the White-ſtone in <hi>Rev.</hi> 2.17. which no Man knoweth, ſaving he that receiveth it; that is, when it ariſeth, and is received in Man, he will know, and find in himſelf an unexpreſſible Joy, far above all worldly Affecti<g ref="char:EOLhyphen"/>ons,) with extraordinary great Delight and Pleaſure in the con<g ref="char:EOLhyphen"/>templation of Heaven, and in the ſervice and love to God more than to the World: And it is the Corner-ſtone from whence the Structure of the true Religion muſt be derived; and it is alſo the only true Teſt to prove the Spirits of all Men and all Religions, whether they be good or bad. Therefore whatſoever is Tranſact<g ref="char:EOLhyphen"/>ed by any Man, or by, and from the Doctrine of any Religion, that deſtroys Love, Duty and Obedience, either againſt God, or Man, or their Laws and Commands, it doth murder, kill and deſtroy the Spirit of God in that Man, or in his Religion, from ſerving God in the true Religion, in Spirit and in Truth, <hi>viz.</hi> with Chriſts true heavenly Spirit in love to God and Man; for without that Spirit of <hi>Love,</hi> (it being quite extinct in Man,) <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o Man can poſſibly live in the Body from diſtraction and de<g ref="char:EOLhyphen"/>ſtroying
+<pb n="9" facs="tcp:33911:6"/>himſelf, if left to himſelf; and it is as impoſſible that any Man can be ſaved out of the Body; for without Chriſt's Spirit of Love, no Man can poſſibly be ſaved; it being the Trumpet that muſt, and will ſound in the Ears of all Mankind, to call, and awaken them from Death to Life, whoſe Spirits being Dead with <hi>Adam</hi>'s decayed Spirit of Love, muſt be revived with Chriſt's quickning Spirit of Love, or elſe of all Creatures, Man is the moſt miſerable.</p>
+            <p>Therefore I beſeech you for the Lord's ſake, have a ſerious Conſideration to Examine and try your ſelves by the above ſaid Teſt, whether there be in your Souls Chriſt's true and ſincere heavenly Spirit, in love to God and Man without a<g ref="char:EOLhyphen"/>ny defection; and let every one repent and be converted to the Knowledge of the Lord; For it is ſaid, <hi>the time comes that every one ſhall know the Lord, from the leaſt to the greateſt,</hi> viz. that the Father, Son, and Holy Spirit, a Trinity in one Spirit ſhall be found out, as certainly known in every Man's own ſelf by the Spirit of Truth, <hi>which ſhall lead you into all Truth:</hi> The Spirit of the Comforter, Chriſt's Spirit of Love which is in you, and is the only Spirit that will, or can ſave you, and the only Comfort that none can take from you; and the only undeniable Spirit wherewith to ſerve God in Spirit and in Truth. Therefore make haſte to the gaining the ſaid Spi<g ref="char:EOLhyphen"/>rit of Chriſt, through earneſt, violent and fervent Prayers; for nothing elſe can preſerve your Souls from everlaſting Ruin, in perpetual darkneſs, in the horrid torturing Flames of Hell Fire, with the Devil and his Angels; and nothing can be more dreadful and terrible for the rouzing up every one from their ſtupidly acquieſſing in the uncertainty of their own Salvation, and with all ſpeed to make their <hi>Calling and Election ſure,</hi> by the infallible certainty thereof through Chriſt's Spirit, herein (by divine Inſpiration) plainly demonſtrated for the fulfilling of Scripture, and that all Mankind concerned, delay not to re<g ref="char:EOLhyphen"/>deem themſelves out of the Captivity of their confuſed <hi>Babel;</hi>
+               <pb n="10" facs="tcp:33911:7"/>and that no Man beguile you in a voluntary humility and Wor<g ref="char:EOLhyphen"/>ſhipping of Angels, which things have indeed <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhew of Wiſ<g ref="char:EOLhyphen"/>dom in Will Worſhip and Humility: <hi>Col.</hi> 2.1.23. <hi>And give <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> heed to their ſeducing Spirits, who teach the Doctrine of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>evils, and are known by forbidding to Marry, and to abſtain from M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ats,</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>im. 4.3. <hi>making Godlineſs great gain:</hi> From ſuch turn away, and turn unto the Lord; <hi>For why will yee die, O ye Houſe of</hi> Iſrael? ſaith the Lord.</p>
+            <p>Therefore I muſt again beſeech you for the Lord's ſake, for the ſaving your own Lives, that every Man would Attract to himſelf a ſelf-denial, from the many diſſentions in the various Opinions about Religion; and that all would (with a fixt Reſo<g ref="char:EOLhyphen"/>lution by Prayer,) Center their Hearts in that one only Word, <hi>that was with God, and was God,</hi> and was made fleſh in Chriſt, (Love) For all Men were made from one Spirit of Love, and all ſhould (by the Chriſtian Religion) live as Brethren in one Spi<g ref="char:EOLhyphen"/>rit of Love, wherein the perfection of all Religion doth whol<g ref="char:EOLhyphen"/>ly and ſolely conſiſt in gaining, increaſing and preſerving the ſaid Spirit of Love to God; which Law of God (in which are all the Commandments) hath from the beginning, is, and will be written to the end of the World, in every Man's Heart, (all naturally concluding without Converſie) that none can be ſaved without Love to God; which (being Chriſt's Spirit) doth <hi>fulfil all the Law and the Prophets,</hi> and all God's Commands; and doth contain in it the whole Body, Soul, and Spirit of Divinity. Wherefore then ſhould there be ſo many Diviſions, with the bit<g ref="char:EOLhyphen"/>ter envyings and ſtrife amongſt Chriſtians, when it is earthly, ſenſual, and deviliſh, with confuſion and every evil work, <hi>James</hi> 3.14. And when nothing elſe but love can paſſify Wrath, and cover a multitude of Sins, and cleanſe from all Iniquity, and ſave the Soul from an irreyocable Ruine; which that it may Reign in all your Hearts, to center all into the one only Religion, in Unity, Peace and Purity, being the perfection of Religion: The Grace of our Lord Jeſus Chriſt be with you all. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
